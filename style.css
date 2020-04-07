@@ -1,0 +1,23 @@
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  margin-top: 16px;
+}
+
+.second {
+  justify-content: space-around;
+
+}
+  
+.c {
+  margin-left: 30px;
+  margin-right: 30px;
+}
